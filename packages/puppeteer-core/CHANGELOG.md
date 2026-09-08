@@ -1,5 +1,13 @@
 # Changelog
 
+## [25.10.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.10.0...puppeteer-core-v25.10.1) (2026-09-08)
+
+
+### 🛠️ Fixes
+
+* roll to Chrome 152.0.7977.82 ([#15434](https://github.com/puppeteer/puppeteer/issues/15434)) ([f0dc34c](https://github.com/puppeteer/puppeteer/commit/f0dc34c9afd8e39d64805f61b08f306a25f7c56b))
+* roll to Firefox 155.0.1 ([#15421](https://github.com/puppeteer/puppeteer/issues/15421)) ([25832f9](https://github.com/puppeteer/puppeteer/commit/25832f917ed9cfe02e8060ed622ad97671fb4905))
+
 ## [25.10.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.9.0...puppeteer-core-v25.10.0) (2026-09-03)
 
 
